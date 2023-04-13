@@ -1,0 +1,32 @@
+//----------note.txt----------//
+
+--------Fiche_Technique------------
+Version: 0.0.1
+
+
+
+
+--------------------
+
+---------------Note----------------
+
+Faire une commande d'information sur le bot
+
+---
+
+
+--------------------
+
+-------------Problème---------------
+
+Prob. 1: TypeError: {(intermediate value)}.setToken is not a function
+Problème avec la fonction ".setToken"
+
+---
+
+Prob. 2: N'affiche pas les précision du bannissement.
+
+---
+
+
+--------------------
